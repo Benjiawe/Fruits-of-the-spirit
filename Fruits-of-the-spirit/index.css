@@ -1,0 +1,126 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    background-image: url("christian-image.webp");
+    background-size: cover;
+}
+
+h1 {
+    margin-top: 40px;
+}
+button {
+    width: 130px;
+    height: 50px;
+    background-color: rgba( 0, 0, 0, 0.001);
+    color: whitesmoke;
+    border: 3px solid whitesmoke;
+    border-radius: 7px;
+    box-shadow: 0px 0px 3px black;
+}
+.btns1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.btns2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.btns {
+    display: flex;
+    justify-content: space-around;
+}
+.Button {
+    margin-top: 15px;
+}
+button:hover {
+    background-color: rgba( 0, 0, 0, 0.5);
+}
+#love-verse {
+    display: none;
+    background-color: rgba( 0, 0, 0, 0.3);
+    font-size: 25px;
+    width: 600px;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#go-back {
+    display: none;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#joy-verse {
+    display: none;
+    background-color: rgba( 0, 0, 0, 0.3);
+    font-size: 25px;
+    width: 600px;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#peace-verse {
+    display: none;
+    background-color: rgba( 0, 0, 0, 0.3);
+    font-size: 25px;
+    width: 600px;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#patience-verse {
+    display: none;
+    background-color: rgba( 0, 0, 0, 0.3);
+    font-size: 25px;
+    width: 600px;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#kindness-verse {
+    display: none;
+    background-color: rgba( 0, 0, 0, 0.3);
+    font-size: 25px;
+    width: 600px;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#goodness-verse {
+    display: none;
+    background-color: rgba( 0, 0, 0, 0.3);
+    font-size: 25px;
+    width: 600px;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#gentleness-verse {
+    display: none;
+    background-color: rgba( 0, 0, 0, 0.3);
+    font-size: 25px;
+    width: 600px;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#self-control-verse {
+    display: none;
+    background-color: rgba( 0, 0, 0, 0.3);
+    font-size: 25px;
+    width: 600px;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
